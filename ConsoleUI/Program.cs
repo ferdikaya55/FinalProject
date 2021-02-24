@@ -9,11 +9,11 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            ProductTest();
+           // ProductTest();
             //CategoryTest();
         }
 
-        private static void CategoryTest()
+        /*private static void CategoryTest()
         {
             CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
             foreach (var category in categoryManager.GetAll())
@@ -38,6 +38,6 @@ namespace ConsoleUI
                 Console.WriteLine(result.Message);
             }
             
-        }
+        }*/
     }
 }
