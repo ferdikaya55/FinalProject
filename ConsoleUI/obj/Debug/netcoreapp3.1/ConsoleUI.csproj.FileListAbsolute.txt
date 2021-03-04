@@ -65,3 +65,5 @@ C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.
 C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ferdi Kaya\source\repos\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
